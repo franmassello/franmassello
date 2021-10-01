@@ -1,4 +1,4 @@
-![Port](https://www.incimages.com/uploaded_files/image/1920x1080/software-computer-code-1940x900_35196.jpg)
+![Port](https://codeweek-s3.s3.amazonaws.com/event_picture/c-c-for-hackers-part-8-getting-user-input.1280x600.jpg)
 <h1 align="center"> Hi, I'm Fran! 👋 :computer: </h1>
 
 ```js
@@ -10,19 +10,18 @@ const franmassello = {
         ],
       FrontEnd: [
           {JavaScript: ['React', 'React-Native', 'Redux']}
-        ]
+        ],
       Others: [
           {Python: ['PyTesseract', 'PyAutoGUI', 'Requests', 'PIL']}
           {Amazon: ['EC2']}
         ]
     },
   Proyects: [
-      {WikiDogs: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']},
-      {Mint: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']}
+      {WikiDogs: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'PostgreSQL']},
+      {Mint: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport', 'Auth0', 'PostgreSQL']}
     ],
   FutureTecnologies: ['Solidity', 'AWS'],
   Aspirations: ['CloudComputing', 'CryptocurrencyDev', 'Data Science']
 }
 ```
-
 
