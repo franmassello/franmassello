@@ -1,4 +1,4 @@
-![Port](https://codeweek-s3.s3.amazonaws.com/event_picture/c-c-for-hackers-part-8-getting-user-input.1280x600.jpg)
+![Port](https://cdn.pixabay.com/photo/2017/07/31/14/45/code-2558224_1280.jpg)
 <h1 align="center"> Hi, I'm Fran! 👋 :computer: </h1>
 
 ```js
