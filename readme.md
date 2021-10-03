@@ -1,4 +1,4 @@
-<h3> AGREGAR IMAGEN </h3>
+
 <h1 align="center"> Hi, I'm Fran! 👋 :computer: </h1>
 
 ```js
@@ -24,5 +24,3 @@ const franmassello = {
   Aspirations: ['CloudComputing', 'CryptocurrencyDev', 'Data Science']
 }
 ```
-
-<h3> AGREGAR PROYECTOS </h3>
