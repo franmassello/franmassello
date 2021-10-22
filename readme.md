@@ -21,6 +21,6 @@ const franmassello = {
       {Mint: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport', 'Auth0', 'PostgreSQL']}
     ],
   FutureTecnologies: ['Solidity', 'AWS'],
-  Aspirations: ['CloudComputing', 'CryptocurrencyDev', 'Data Science']
+  Aspirations: ['CloudComputing', 'CryptocurrencyDev']
 }
 ```
