@@ -4,23 +4,19 @@
 ```js
 const franmassello = {
   Skills: {
-      BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
-          {Python: ['Flask']}
-        ],
       FrontEnd: [
-          {JavaScript: ['React', 'React-Native', 'Redux']}
+          {JavaScript: ['React', 'Redux', 'Next']}
+          {TypeScript: ['React Native CLI', 'Redux Toolkit', 'OneSignal']}
         ],
       Others: [
-          {Python: ['PyTesseract', 'PyAutoGUI', 'Requests', 'PIL']}
+          {Python: ['PyTesseract', 'PyAutoGUI', 'Requests', 'PIL', 'Telegram' ]}
           {Amazon: ['EC2']}
         ]
     },
   Proyects: [
       {WikiDogs: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'PostgreSQL']},
-      {Mint: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport', 'Auth0', 'PostgreSQL']}
+      {Mint: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Auth0', 'PostgreSQL']}
+      {others that remain private...}
     ],
-  FutureTecnologies: ['Solidity', 'AWS'],
-  Aspirations: ['CloudComputing', 'CryptocurrencyDev']
 }
 ```
