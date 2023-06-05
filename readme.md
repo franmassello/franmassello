@@ -6,7 +6,7 @@ const franmassello = {
   Skills: {
       FrontEnd: [
           {JavaScript: ['React', 'Redux', 'Next']}
-          {TypeScript: ['React Native CLI', 'Redux Toolkit', 'OneSignal']}
+          {TypeScript: ['React', 'React Native CLI', 'Next', 'Redux Toolkit', 'OneSignal']}
         ],
       Others: [
           {Python: ['PyTesseract', 'PyAutoGUI', 'Requests', 'PIL', 'Telegram' ]}
@@ -14,6 +14,8 @@ const franmassello = {
         ]
     },
   Proyects: [
+      {Corvinax: ['React', 'Next', 'ReduxToolkit', 'StyledComponents']},
+      {BullLabs: ['React', 'Next', 'ChakraUI']},
       {WikiDogs: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'PostgreSQL']},
       {Mint: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Auth0', 'PostgreSQL']}
       {others that remain private...}
